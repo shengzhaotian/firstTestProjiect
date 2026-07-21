@@ -1,0 +1,2 @@
+*.whl filter=lfs diff=lfs merge=lfs -text
+triton_ascend-3.2.2+dev20260626225900-cp311-cp311-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl filter=lfs diff=lfs merge=lfs -text
